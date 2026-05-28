@@ -7,3 +7,4 @@ content:
     path: "content"
     name: content
     type: collection
+    subfolders: true
