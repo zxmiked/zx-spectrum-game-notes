@@ -3,12 +3,11 @@ media:
   output: "/images"
 
 content:
-  # This acts as a direct, top-level collection link in your sidebar
-  - name: reviews
+  - type: collection
+    name: reviews
     label: Game Reviews
-    type: collection
     path: "content/reviews"
-    subfolders: true # Allows creating directories dynamically inside the app
+    subfolders: true
     format: md
     fields:
       - name: title
