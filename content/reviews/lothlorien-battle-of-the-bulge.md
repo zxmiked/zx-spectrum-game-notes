@@ -4,7 +4,7 @@ publisher: argus-press
 authors: lothlorien
 format: large-clamshell
 genre: strategy
-tags: [strategy,war-game]
+tags: [strategy, wargame, historical]
 summary: A near real-time wargame based on a famous WW2 counter-offensive.
 ---
 
