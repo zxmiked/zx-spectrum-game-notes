@@ -3,19 +3,7 @@ media:
   output: "/images"
 
 content:
-  - type: collection
-    name: reviews
-    label: Game Reviews
-    path: "content/reviews"
-    subfolders: true
-    format: md
-    fields:
-      - name: title
-        label: Game Title
-        type: string
-      - name: publisher
-        label: Publisher
-        type: string
-      - name: body
-        label: Review Content
-        type: rich-text
+  - label: Content
+    path: "content"
+    name: content
+    type: collection
