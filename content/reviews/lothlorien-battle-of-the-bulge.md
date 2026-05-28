@@ -1,7 +1,10 @@
 title: Battle of the Bulge
-publisher: Lothlorien
-format: large-clamshell
 zxdbId: 753
+publisher: argus-press
+authors: lothlorien
+format: large-clamshell
+genre: strategy
+tags: [strategy,war-game]
 summary: A near real-time wargame based on a famous WW2 counter-offensive.
 ---
 
