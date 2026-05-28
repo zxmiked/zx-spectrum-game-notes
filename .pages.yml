@@ -1,19 +1,22 @@
-
 media:
-  input: "images" # Stores all your uploaded inline images here
+  input: "images"
   output: "/images"
 
-collections:
+content:
+  # This acts as a direct, top-level collection link in your sidebar
   - name: reviews
     label: Game Reviews
-    type: folder
-    path: "content/reviews" # Or just "reviews"
-    exclude: []
-    # This allows you to create sub-directories inside the app
-    subfolders: true 
+    type: collection
+    path: "content/reviews"
+    subfolders: true # Allows creating directories dynamically inside the app
     format: md
-    # This enforces your template structure whenever you click "New Review"
-    fields: 
-      - { name: title, label: Game Title, type: string }
-      - { name: publisher, label: Publisher, type: string }
-      - { name: body, label: Review Content, type: rich-text } # Renders markdown and handles inline images
+    fields:
+      - name: title
+        label: Game Title
+        type: string
+      - name: publisher
+        label: Publisher
+        type: string
+      - name: body
+        label: Review Content
+        type: rich-text
