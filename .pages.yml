@@ -15,6 +15,5 @@ collections:
     # This enforces your template structure whenever you click "New Review"
     fields: 
       - { name: title, label: Game Title, type: string }
-      - { name: rating, label: Score (1-10), type: number }
-      - { name: platform, label: Platform, type: string }
+      - { name: publisher, label: Publisher, type: string }
       - { name: body, label: Review Content, type: rich-text } # Renders markdown and handles inline images
