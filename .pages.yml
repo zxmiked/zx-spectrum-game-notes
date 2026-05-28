@@ -1,1 +1,20 @@
 
+media:
+  input: "images" # Stores all your uploaded inline images here
+  output: "/images"
+
+collections:
+  - name: reviews
+    label: Game Reviews
+    type: folder
+    path: "content/reviews" # Or just "reviews"
+    exclude: []
+    # This allows you to create sub-directories inside the app
+    subfolders: true 
+    format: md
+    # This enforces your template structure whenever you click "New Review"
+    fields: 
+      - { name: title, label: Game Title, type: string }
+      - { name: rating, label: Score (1-10), type: number }
+      - { name: platform, label: Platform, type: string }
+      - { name: body, label: Review Content, type: rich-text } # Renders markdown and handles inline images
