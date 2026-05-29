@@ -15,8 +15,7 @@ curation:
   decision: Keep
   reason: Replayable
 ---
-tags: [strategy, wargame, historical]  
-
+tags: [strategy, wargame, historical]
 
 The game loaded despite the felt pressure pad looking in a deteriorated state (a typical issue with Argus Press cassettes not having copper spring mounted pads). The loading screen is the main in-game interface with a window on a much larger map.
 
