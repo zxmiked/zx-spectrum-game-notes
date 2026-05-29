@@ -30,17 +30,17 @@ It's not exactly the thinker's game. Which represents the scenario well. As the 
 
 ## Similarities
 
-There are similarities with Imagine's Stonkers which I quite like as a realtime wargame. Both sides are supplied with reinforcements, and have to make real-time-ish decisions. Whereas Stonkers feels balanced, playing the Allies in The Bulge feels like an uphill battle.
-
-The game having asymmetrical victory goals, where an overwhelming force smashes into an almost immovable object is similar to Theatre Europe. I love Theatre Europe as a strategy wargame, especially turning off the nuclear capabilities. Both game excel in the dynamic of an overwhelming force smashing into an almost immovable object.
-
-I assume that the NATO approach in Theatre Europe of strategical retreats combined with targeted attacks at the cracks in the Soviet Wall is worth a go in Battle of the Bulge. And it's something I want to try.
+There are similarities with Imagine's Stonkers, and I like as a real-time wargame. Both sides are supplied with reinforcements, and have to make real-time-ish decisions. Whereas Stonkers feels balanced, playing the Allies in The Bulge feels like an uphill struggle from the get go.
 
 Which highlights the replayability value of this game. Because of it's almost real-time approach, each game won't be the same, even if the strategy adopted is the same, because timing may prove to be the elusive source of constructive randomness.
 
-Crash awarded the game a Crash Smash with the simple "An excellent wargame". Four Gilbert Factor stars from Sinclair User, noting "The Bulge is a good hard fight".
+The scenario of an overwhelming force smashing into an almost immovable object, where the aggressor has to win before their resources run out, while the defender tries to hold out until the trickle of reinforcements is available to exhaust the opponent, is similar to Theatre Europe. I love Theatre Europe as a strategy wargame, after turning off the nuclear capabilities. The assymetric victory goals make the game what it is, an unbalanced fight that should prefer the defender over the long run.
+
+I assume that the NATO approach in Theatre Europe of strategical retreats combined with targeted attacks at the cracks in the Soviet Wall is worth trying in Battle of the Bulge. And I'll give it a go.
 
 ## Curation
+
+Crash awarded the game a Crash Smash with the simple "An excellent wargame". Four Gilbert Factor stars from Sinclair User, noting "The Bulge is a good hard fight".
 
 The design of this game ensures a high replayability value, because the randomness comes from timing of the pseudo real-time approach. Nostalgia wise, it's part of the suite of wargames covering historical conflicts, a staple of thinking games. That it reminds me of Theatre Europe and Stonkers means it scores well on games that will hold my interest.
 
