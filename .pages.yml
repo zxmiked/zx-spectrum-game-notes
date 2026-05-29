@@ -31,5 +31,23 @@ content:
     fields:
       - name: title
         type: string
+      - name: zxdbId
+        type: number
+      - name: publisher
+        type: string
+      - name: authors
+        type: string
+      - name: format
+        type: string
+      - name: genre
+        type: string
+      - name: tags
+        type: string
+        list: true
+      - name: summary
+        type: string
+      - name: curation
+        component: curate
+        label: Curation
       - name: body
         type: rich-text
