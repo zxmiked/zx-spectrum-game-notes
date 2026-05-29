@@ -18,8 +18,6 @@ curation:
   decision: Keep
   reason: Replayable
 ---
-tags: [strategy, wargame, historical]
-
 The game loaded despite the felt pressure pad looking in a deteriorated state (a typical issue with Argus Press cassettes not having copper spring mounted pads). The loading screen is the main in-game interface with a window on a much larger map.
 
 The game controls are simple, QAOP and Space to fire. And you control a selection box from which you can issue orders to your side, and see the status of the opposing army. Moving is simply a case of selecting a unit, and moving the selector to a destination and selecting that.
