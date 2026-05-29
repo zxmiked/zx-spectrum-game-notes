@@ -3,7 +3,7 @@ media:
   output: "/images"
 
 content:
-  - label: Content
+  - label: Pages
     path: "content"
     name: content
     type: collection
