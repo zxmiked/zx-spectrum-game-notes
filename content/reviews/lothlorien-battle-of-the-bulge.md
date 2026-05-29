@@ -12,7 +12,7 @@ curation:
   replayability: 9
   quality: 6
   enjoyability: 7
-  conclusion: keep
+  decision: keep
   reason: replayable
 ---
 
