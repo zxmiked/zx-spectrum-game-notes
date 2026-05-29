@@ -5,17 +5,11 @@ publisher: argus-press
 authors: lothlorien
 format: large-clamshell
 genre: strategy
+summary: A near real-time wargame based on a famous WW2 counter-offensive.
 curation:
   reviewDate: 2026-05-29
 ---
-## zxdbId: 753
-
-publisher: argus-press  
-authors: lothlorien  
-format: large-clamshell  
-genre: strategy  
 tags: [strategy, wargame, historical]  
-summary: A near real-time wargame based on a famous WW2 counter-offensive.  
 curation:  
   reviewDate: 2026-05-28  
   nostalgia: 7  
