@@ -2,6 +2,26 @@ media:
   input: "images"
   output: "/images"
 
+components:
+  curate:
+    type: object
+    label: Curate
+    fields:
+      - name: reviewDate
+        type: date
+      - name: nostalgia
+        type: number
+      - name: replayability
+        type: number
+      - name: quality
+        type: number
+      - name: enjoyability
+        type: number
+      - name: decision
+        type: select
+      - name: reason
+        type: string
+
 content:
   - label: Pages
     path: "content"
