@@ -1,7 +1,15 @@
 ---
 title: Battle of the Bulge
+zxdbId: 753
+publisher: argus-press
+authors: lothlorien
+format: large-clamshell
+genre: strategy
+curation:
+  reviewDate: 2026-05-29
 ---
-## zxdbId: 753  
+## zxdbId: 753
+
 publisher: argus-press  
 authors: lothlorien  
 format: large-clamshell  
