@@ -1,20 +1,21 @@
-title: Battle of the Bulge
-zxdbId: 753
-publisher: argus-press
-authors: lothlorien
-format: large-clamshell
-genre: strategy
-tags: [strategy, wargame, historical]
-summary: A near real-time wargame based on a famous WW2 counter-offensive.
-curation:
-  reviewDate: 2026-05-28
-  nostalgia: 7
-  replayability: 9
-  quality: 6
-  enjoyability: 7
-  decision: keep
-  reason: replayable
 ---
+title: Battle of the Bulge
+---
+## zxdbId: 753  
+publisher: argus-press  
+authors: lothlorien  
+format: large-clamshell  
+genre: strategy  
+tags: [strategy, wargame, historical]  
+summary: A near real-time wargame based on a famous WW2 counter-offensive.  
+curation:  
+  reviewDate: 2026-05-28  
+  nostalgia: 7  
+  replayability: 9  
+  quality: 6  
+  enjoyability: 7  
+  decision: keep  
+  reason: replayable
 
 The game loaded despite the felt pressure pad looking in a deteriorated state (a typical issue with Argus Press cassettes not having copper spring mounted pads). The loading screen is the main in-game interface with a window on a much larger map.
 
