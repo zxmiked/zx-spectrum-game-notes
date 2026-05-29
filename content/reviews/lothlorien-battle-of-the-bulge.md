@@ -28,6 +28,8 @@ Playing the Allied side, every so often reinforcements arrive, but it's not obvi
 
 It's not exactly the thinker's game. Which represents the scenario well. As the German counter-offensive pushed through the Ardennes, Allied troops didn't have time to reflect and organise, they had to think on their feet and react in the moment. And the game brings this level of stress to the fore with it's almost real-time nature.
 
+## Similarities
+
 There are similarities with Imagine's Stonkers which I quite like as a realtime wargame. Both sides are supplied with reinforcements, and have to make real-time-ish decisions. Whereas Stonkers feels balanced, playing the Allies in The Bulge feels like an uphill battle.
 
 The game having asymmetrical victory goals, where an overwhelming force smashes into an almost immovable object is similar to Theatre Europe. I love Theatre Europe as a strategy wargame, especially turning off the nuclear capabilities. Both game excel in the dynamic of an overwhelming force smashing into an almost immovable object.
