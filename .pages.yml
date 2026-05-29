@@ -8,3 +8,8 @@ content:
     name: content
     type: collection
     subfolders: true
+    fields:
+      - name: title
+        type: string
+      - name: body
+        type: rich-text
